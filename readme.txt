@@ -36,3 +36,8 @@ Users Account:
     password: PROGRAMMER
 
 Screenshots: xampp/htdocs/jezelbookshop/screenshots
+
+Known Issue: 
+  only for css and javascript files
+  1. if you clone or download it on github, make sure rename the folder to jezelbookshop (because it is jezelbookshop-master renamed by github)
+  2. Codeigniter ignore vendor files as default so css and javascript files are not included at my first push. but now it fixed already.
